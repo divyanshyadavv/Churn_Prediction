@@ -13,7 +13,7 @@ This project focuses on predicting customer churn using various machine learning
 
 * `Churn_Prediction.ipynb`: Jupyter notebook containing the full analysis and model evaluation.
 * `README.md`: Project overview and instructions.
-* `data/`: Directory where the raw dataset is stored.
+* `WA_Fn-UseC_-Telco-Customer-Churn`: Telco Dataset.
 
 ---
 
